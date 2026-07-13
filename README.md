@@ -8,7 +8,7 @@ Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numériq
 
 🎯 Je recherche un **stage non rémunéré en développement web**, du **31 août au 27 novembre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
 
-## Compétences techniques 🚀
+🚀## Compétences techniques 
 
 ### Front-end
 
@@ -37,7 +37,7 @@ Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numériq
 * Canva
 * Photoshop
 
-## En cours d’apprentissage 🌱
+🌱## En cours d’apprentissage 
 
 * Développement d’interfaces dynamiques
 * Applications web sécurisées
