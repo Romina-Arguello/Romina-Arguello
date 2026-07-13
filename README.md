@@ -6,7 +6,7 @@
 
 Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numérique, à l’éco-conception et à la sécurité web.
 
-🎯 Je recherche un **stage non rémunéré en développement web**, du **31 août au 27 novembre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
+🎯 Je recherche un **stage non rémunéré en développement Web**, du **31 août au 23 octobre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
 
 ## Compétences techniques 
 
@@ -15,7 +15,6 @@ Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numériq
 * HTML5
 * CSS3
 * JavaScript
-* Angular
 * Responsive Web Design
 * Maquettage d’interfaces
 
@@ -24,7 +23,6 @@ Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numériq
 * PHP
 * SQL
 * MySQL
-* Symfony
 * Modélisation de bases de données
 * Oracle Data Modeler
 
