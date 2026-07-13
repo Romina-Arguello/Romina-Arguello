@@ -1,16 +1,66 @@
-## Hi there 👋
+# Bonjour, je suis Romina Argüello 👋
 
-<!--
-**Romina-Arguello/Romina-Arguello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Développeuse Web & Web Mobile en formation
 
-Here are some ideas to get you started:
+💻 Passionnée par le développement Web et le design numérique, je me forme actuellement à la conception et au développement d’applications Web et Web Mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numérique, à l’éco-conception et à la sécurité web.
+
+🎯 Je recherche un **stage non rémunéré en développement web**, du **31 août au 27 novembre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
+
+## Compétences techniques 🚀
+
+### Front-end
+
+* HTML5
+* CSS3
+* JavaScript
+* Angular
+* Responsive Web Design
+* Maquettage d’interfaces
+
+### Back-end et bases de données
+
+* PHP
+* SQL
+* MySQL
+* Symfony
+* Modélisation de bases de données
+* Oracle Data Modeler
+
+### Outils
+
+* Git et GitHub
+* WebStorm
+* PhpStorm
+* Figma
+* Canva
+* Photoshop
+
+## En cours d’apprentissage 🌱
+
+* Développement d’interfaces dynamiques
+* Applications web sécurisées
+* Architecture d’applications
+* Accessibilité numérique
+* Éco-conception web
+* Frameworks JavaScript
+
+## Projets
+
+Vous trouverez progressivement sur mon profil mes projets de formation et mes réalisations personnelles :
+
+* Portfolio personnel
+* Interfaces web responsive
+* Projets JavaScript
+* Applications PHP et MySQL
+* Exercices de modélisation de bases de données
+* Projets UI/UX
+
+## Portfolio
+
+🌐 [Découvrir mon portfolio](https://romina-arguello.website/)
+
+## Me contacter
+
+Je suis disponible pour échanger au sujet d’une opportunité de stage, d’un projet web ou d’une collaboration professionnelle.
