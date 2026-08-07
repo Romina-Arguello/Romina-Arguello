@@ -16,7 +16,7 @@ Je m'intéresse particulièrement à l'UI/UX, à l'accessibilité numérique, à
 `HTML5` `CSS3` `JavaScript` `Responsive Web Design` `Maquettage d'interfaces`
 
 **Back-end & Bases de données**
-`PHP` `Symfony` `SQL` `MySQL` `Modélisation de bases de données` `Oracle Data Modeler`
+`PHP` `Symfony` `SQL` `MySQL` 
 
 **Outils**
 `Git` `GitHub` `WebStorm` `PhpStorm` `Figma` `Canva` `Photoshop`
