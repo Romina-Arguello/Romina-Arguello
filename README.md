@@ -2,11 +2,11 @@
 
 ## Développeuse Web & Web Mobile en formation
 
-💻 Passionnée par le développement web et le design numérique, je me forme actuellement à la conception et au développement d'applications web et mobiles.
+💻 Passionnée par le développement Web et le design numérique, je me forme actuellement à la conception et au Développement d'applications Web et Mobiles.
 
-Je m'intéresse particulièrement à l'UI/UX, à l'accessibilité numérique, à l'éco-conception et à la sécurité web.
+Je m'intéresse particulièrement à l'UI/UX, à l'accessibilité numérique, à l'éco-conception et à la sécurité Web.
 
-🎯 Je recherche un **stage non rémunéré en développement web**, du **31 août au 23 octobre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
+🎯 Je recherche un **stage non rémunéré en Développement Web**, du **31 août au 23 octobre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
 
 ---
 
@@ -29,7 +29,7 @@ Développement d'interfaces dynamiques · Applications web sécurisées · Archi
 
 ---
 
-## 🚀 Projet phare
+## 🚀 Projet Phare
 
 ### [Sortir](https://github.com/KentinPB/Sortir)
 Plateforme web pour organiser et gérer des sorties entre étudiants d'un campus.
