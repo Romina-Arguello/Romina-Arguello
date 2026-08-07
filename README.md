@@ -2,63 +2,62 @@
 
 ## Développeuse Web & Web Mobile en formation
 
-💻 Passionnée par le développement Web et le design numérique, je me forme actuellement à la conception et au développement d’applications Web et Web Mobile.
+💻 Passionnée par le développement web et le design numérique, je me forme actuellement à la conception et au développement d'applications web et mobiles.
 
-Je m’intéresse particulièrement à l’UI/UX, à l’accessibilité numérique, à l’éco-conception et à la sécurité web.
+Je m'intéresse particulièrement à l'UI/UX, à l'accessibilité numérique, à l'éco-conception et à la sécurité web.
 
-🎯 Je recherche un **stage non rémunéré en développement Web**, du **31 août au 23 octobre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
+🎯 Je recherche un **stage non rémunéré en développement web**, du **31 août au 23 octobre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
 
-## Compétences techniques 
+---
 
-### Front-end
+## 🛠️ Compétences techniques
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* Maquettage d’interfaces
+**Front-end**
+`HTML5` `CSS3` `JavaScript` `Responsive Web Design` `Maquettage d'interfaces`
 
-### Back-end et bases de données
+**Back-end & Bases de données**
+`PHP` `Symfony` `SQL` `MySQL` `Modélisation de bases de données` `Oracle Data Modeler`
 
-* PHP
-* SQL
-* MySQL
-* Modélisation de bases de données
-* Oracle Data Modeler
+**Outils**
+`Git` `GitHub` `WebStorm` `PhpStorm` `Figma` `Canva` `Photoshop`
 
-### Outils
+---
 
-* Git et GitHub
-* WebStorm
-* PhpStorm
-* Figma
-* Canva
-* Photoshop
+## 📚 En cours d'apprentissage
 
-## En cours d’apprentissage 
+Développement d'interfaces dynamiques · Applications web sécurisées · Architecture d'applications · Accessibilité numérique · Éco-conception web · Frameworks JavaScript
 
-* Développement d’interfaces dynamiques
-* Applications web sécurisées
-* Architecture d’applications
-* Accessibilité numérique
-* Éco-conception web
-* Frameworks JavaScript
+---
 
-## Projets
+## 🚀 Projet phare
 
-Vous trouverez progressivement sur mon profil mes projets de formation et mes réalisations personnelles :
+### [Sortir](https://github.com/KentinPB/Sortir)
+Plateforme web pour organiser et gérer des sorties entre étudiants d'un campus.
 
-* Portfolio personnel
-* Interfaces web responsive
-* Projets JavaScript
-* Applications PHP et MySQL
-* Exercices de modélisation de bases de données
-* Projets UI/UX
+**Stack :** Symfony · PHP · Bootstrap · JavaScript (AJAX/Fetch) · MySQL
 
-## Portfolio
+Projet de groupe développé en cours, avec une méthodologie de travail collaboratif sur GitHub (branches par fonctionnalité, revue de code entre coéquipiers).
 
-🌐 [Découvrir mon portfolio](https://romina-arguello.website/)
+**Mon rôle : Développeuse C**
+- 🔍 Contrôleur et vue de la page d'accueil, avec système de recherche et de filtrage avancé (par campus, nom, dates)
+- ✅ Logique d'inscription/désistement et d'annulation de sorties, avec validations de l'organisateur, du statut et de la date
+- 📄 Vue de détail d'une sortie et profil des participants
+- ⚡ Filtrage dynamique des lieux selon la ville sélectionnée, à l'aide d'AJAX et des FormEvents de Symfony
+- 📱 Design responsive de l'application avec Bootstrap
+- 📝 Documentation technique du code au format PHPDoc
 
-## Me contacter
+---
 
-Je suis disponible pour échanger au sujet d’une opportunité de stage, d’un projet web ou d’une collaboration professionnelle.
+## 💼 Autres projets
+
+D'autres réalisations de formation et projets personnels seront ajoutés progressivement : interfaces web responsive, projets JavaScript, applications PHP/MySQL, modélisation de bases de données, projets UI/UX.
+
+---
+
+## 🌐 Portfolio
+
+[romina-arguello.website](https://romina-arguello.website/)
+
+## 📬 Me contacter
+
+Je suis disponible pour échanger au sujet d'une opportunité de stage, d'un projet web ou d'une collaboration professionnelle.
