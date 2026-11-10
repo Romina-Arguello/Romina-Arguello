@@ -1,63 +1,30 @@
-# Bonjour, je suis Romina Argüello 👋
+# Hello world ! Je suis Romina 👋
 
-## Développeuse Web & Web Mobile en formation
+**Développeuse web full stack · PHP, Symfony, JavaScript** — formée à l'ENI École Informatique.
+Je conçois et développe des sites et applications web, en associant sens du design, qualité technique et expérience utilisateur.
 
-💻 Passionnée par le développement Web et le design numérique, je me forme actuellement à la conception et au Développement d'applications Web et Mobiles.
+🎯 **Je recherche une alternance** pour préparer le titre *Conceptrice Développeuse d'Applications* (Bac+3).
+📍 Aix-les-Bains (Savoie) · ouverte au télétravail · disponible aussi pour des missions freelance.
 
-Je m'intéresse particulièrement à l'UI/UX, à l'accessibilité numérique, à l'éco-conception et à la sécurité Web.
+## Projets
 
-🎯 Je recherche un **stage non rémunéré en Développement Web**, du **31 août au 23 octobre 2026**, afin de valider mon Titre Professionnel de Développeuse Web et Web Mobile.
+| Projet | Contexte | Stack |
+| --- | --- | --- |
+| **La Petite Batellerie** — e-commerce d'une marque de vêtements nautiques | Stage, 8 semaines, en autonomie | Symfony 7.4, PHP 8.4, Twig, Stimulus, Doctrine, MySQL, EasyAdmin |
+| [**Promo ENI**](https://github.com/Romina-Arguello/eni-promo) — annuaire des apprenants de ma promo | Projet individuel | HTML, CSS, Bootstrap, JavaScript, Fetch / JSON, Leaflet |
+| [**Sortir.com**](https://github.com/Romina-Arguello/sortir-com) — organisation de sorties entre étudiants | Équipe de 3 | Symfony, PHP, Doctrine, Twig, JavaScript |
+| [**Portfolio**](https://github.com/Romina-Arguello/Romina-Arguello-Portfolio) — mon site de développeuse | Projet personnel | HTML, CSS, JavaScript, GSAP, accessibilité |
 
----
+Le code de La Petite Batellerie est privé (projet client) : étude de cas sur mon portfolio.
 
-## 🛠️ Compétences techniques
+## Compétences
 
-**Front-end**
-`HTML5` `CSS3` `JavaScript` `Responsive Web Design` `Maquettage d'interfaces`
+- **Front-end :** HTML5, CSS3, JavaScript, Bootstrap, Twig, Stimulus
+- **Back-end :** PHP, Symfony, Doctrine ORM, EasyAdmin
+- **Données :** MySQL, SQL, modélisation Merise et UML
+- **Outils :** Git, GitHub, GitLab, Figma, PhpStorm, méthode Agile
+- **Qualité :** sécurité (CSRF, XSS), tests PHPUnit, accessibilité, RGPD
 
-**Back-end & Bases de données**
-`PHP` `Symfony` `SQL` `MySQL` 
+## Me contacter
 
-**Outils**
-`Git` `GitHub` `WebStorm` `PhpStorm` `Figma` `Canva` `Photoshop`
-
----
-
-## 📚 En cours d'apprentissage
-
-Développement d'interfaces dynamiques · Applications web sécurisées · Architecture d'applications · Accessibilité numérique · Éco-conception web · Frameworks JavaScript
-
----
-
-## 🚀 Projet Phare
-
-### [Sortir](https://github.com/KentinPB/Sortir)
-Plateforme web pour organiser et gérer des sorties entre étudiants d'un campus.
-
-**Stack :** Symfony · PHP · Bootstrap · JavaScript (AJAX/Fetch) · MySQL
-
-Projet de groupe développé en cours, avec une méthodologie de travail collaboratif sur GitHub (branches par fonctionnalité, revue de code entre coéquipiers).
-
-**Mon rôle : Développeuse C**
-- 🔍 Contrôleur et vue de la page d'accueil, avec système de recherche et de filtrage avancé (par campus, nom, dates)
-- ✅ Logique d'inscription/désistement et d'annulation de sorties, avec validations de l'organisateur, du statut et de la date
-- 📄 Vue de détail d'une sortie et profil des participants
-- ⚡ Filtrage dynamique des lieux selon la ville sélectionnée, à l'aide d'AJAX et des FormEvents de Symfony
-- 📱 Design responsive de l'application avec Bootstrap
-- 📝 Documentation technique du code au format PHPDoc
-
----
-
-## 💼 Autres projets
-
-D'autres réalisations de formation et projets personnels seront ajoutés progressivement : interfaces web responsive, projets JavaScript, applications PHP/MySQL, modélisation de bases de données, projets UI/UX.
-
----
-
-## 🌐 Portfolio
-
-[romina-arguello.website](https://romina-arguello.website/)
-
-## 📬 Me contacter
-
-Je suis disponible pour échanger au sujet d'une opportunité de stage, d'un projet web ou d'une collaboration professionnelle.
+[Portfolio](https://romina-arguello.website) · [LinkedIn](https://www.linkedin.com/in/romina-arguello) · romina.arg.dev@gmail.com
