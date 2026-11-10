@@ -4,7 +4,8 @@
 Je conçois et développe des sites et applications web, en associant sens du design, qualité technique et expérience utilisateur.
 
 🎯 **Je recherche une alternance** pour préparer le titre *Conceptrice Développeuse d'Applications* (Bac+3).
-📍 Aix-les-Bains (Savoie) · ouverte au télétravail · disponible aussi pour des missions freelance.
+
+📍 Aix-les-Bains et alentours (Chambéry, Annecy) · disponible aussi pour des missions freelance.
 
 ## Projets
 
